@@ -1,5 +1,7 @@
 # PCMC operational workflow mockups
 
+[Open the live demo](https://smaskar.github.io/pcmc-demo/)
+
 A focused, clickable concept demonstration prepared by Sarvaha Systems for discussion with Pimpri Chinchwad Municipal Corporation (PCMC).
 
 All case names, records, quantities and statuses are fictional examples. This is not an official PCMC service or a statement about PCMC's current operational performance. The proposed workflows and responsibilities require departmental confirmation.
@@ -28,7 +30,7 @@ Refreshing the page clears any draft notes. Saving a note does not change the ca
 
 Open `index.html` in a browser. The prototype has no build step or dependency installation.
 
-The same files can be hosted with GitHub Pages from the repository's default branch and root directory. `.nojekyll` keeps the site as plain static files.
+GitHub Pages publishes this repository from the root of the `gh-pages` branch. `.nojekyll` keeps the site as plain static files. To publish a reviewed update, merge `main` into `gh-pages` and push that branch.
 
 JavaScript syntax check:
 
